@@ -6,7 +6,7 @@ body{
 	text-align: center;
 	margin-top: 20px;
 }
-span {
+.span {
 	color: chocolate;
 }
 
@@ -60,7 +60,10 @@ span {
     float: right;
     padding: 10px 30px;
 	font-size: 19px;
-	background-color: #2FBE70;
+	background-color: grey;
 	border: none;
+}
+.check-out {
+	color:white ;
 }
 /* body section end */
